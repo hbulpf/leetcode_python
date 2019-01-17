@@ -1,0 +1,7 @@
+print('ABC'.encode('ascii'))
+print('ABC'.encode('utf-8'))
+print('中文'.encode('utf-8'))
+a = b'\xe4\xb8\xad\xff'.decode('utf-8',errors='ignore')
+print(a)
+print(len(a),len(b'\xe4\xb8\xad'),len('中'.encode('utf-8')))
+print('中文测试正常')

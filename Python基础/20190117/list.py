@@ -1,0 +1,11 @@
+roommate = ['suhong','ziheng','siyuan']
+print(roommate[2])
+roommate.append('xinran')
+print(roommate)
+roommate.pop()
+print(roommate)
+roommate.insert(1,['panpan','xinran'])
+print(roommate)
+print(roommate[1][1])
+print(roommate[-2])
+print(len(roommate))

@@ -1,0 +1,11 @@
+she = ('suhong',)
+print(she)
+she1 = ('suhong')
+print(she1)
+she2 = ()
+print(she2)
+roommate = ('suhong', 'siyuan', ['panpan', 'ziheng'])
+print(roommate)
+roommate[2][1] = 'bianbian'
+print(roommate)
+print(len(roommate))
