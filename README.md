@@ -36,6 +36,10 @@ leetcode in python
 
 ## 其他
 1. 安装 python环境
+	- pycharm
+2. 在线环境	
+	- Pyhon2.7访问 [http://ml2.hnbdata.cn:8888](http://ml2.hnbdata.cn:8888) , 输入密码 `123456` 
+	- Pyhon3.5访问 [http://ml3.hnbdata.cn:8888](http://ml3.hnbdata.cn:8888) , 输入密码 `123456` 
 
 ## 参考
 1. LeetCode经典编程题 . https://leetcode.com/
