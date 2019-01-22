@@ -3,7 +3,8 @@ leetcode in python
 ## 预备
 1. 在 http://git.hnbdata.cn 注册账号并牢记密码
 2. 在 https://www.nowcoder.com 注册账号并牢记密码
-3. 做好艰苦奋战的心理准备
+3. 在 https://www.hackerrank.com 注册账号并牢记密码
+4. 做好艰苦奋战的心理准备
 
 ## 第一阶段 - Python基础学习(1月17日-1月24日)
 5-7天自学掌握Python基础知识，然后进行Python基础知识测验。根据测试结果考虑是否重新学习Python基础知识。
