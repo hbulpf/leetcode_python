@@ -33,6 +33,8 @@ leetcode in python
 
 ## 第三阶段 - 公司真题练习
 根据面试公司往年的招聘情况，找一些相似公司或该公司的历年真题进行针对性测验练习。
+1. 适应环境 https://www.hackerrank.com/domains/python
+
 
 ## 其他
 1. 安装 python环境
