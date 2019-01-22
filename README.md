@@ -32,6 +32,20 @@ leetcode in python
 1. 自己去 [牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode) 做题系统中进行 leetcode in python 练习
 2. 按照下面的 [LeetCode作业集](./problems.md) 自主完成习题并定时反馈结果, [LeetCode作业集](./problems.md) 样例代码见 [solution_sample](./solution_sample)
 
+需要掌握的题目类型
+1. 数组（周）
+2. 字符串（李）
+3. 查找（周）
+4. 排序（李）
+5. 链表（周）
+6. 堆栈（李）
+7. 树+递归（周）
+8. 回溯法（李）
+8. 动态规划（周）
+9. 贪心算法（李）
+
+
+
 ## 第三阶段 - 公司真题练习
 根据面试[公司](https://akunacapital.com/careers)往年的招聘情况，找一些相似公司或该公司的历年真题进行针对性测验练习。
 1. 适应编程环境 https://www.hackerrank.com/domains/python
