@@ -33,9 +33,10 @@ leetcode in python
 2. 按照下面的 [LeetCode作业集](./problems.md) 自主完成习题并定时反馈结果, [LeetCode作业集](./problems.md) 样例代码见 [solution_sample](./solution_sample)
 
 ## 第三阶段 - 公司真题练习
-根据面试公司往年的招聘情况，找一些相似公司或该公司的历年真题进行针对性测验练习。
+根据面试[公司](https://akunacapital.com/careers)往年的招聘情况，找一些相似公司或该公司的历年真题进行针对性测验练习。
 1. 适应编程环境 https://www.hackerrank.com/domains/python
 2. 针对招聘需求 https://www.v2ex.com/amp/t/426886
+3. 
 
 
 ## 其他
