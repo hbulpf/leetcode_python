@@ -1,10 +1,10 @@
 # LeetCode作业集 
 1. 20190122
-	+ [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-	+ [198. House Robber](https://leetcode.com/problems/house-robber/)
-	+ [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
-	+ [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
-	+ [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+	+ [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)(递归->动态规划)
+	+ [198. House Robber](https://leetcode.com/problems/house-robber/)(递归->动态规划)
+	+ [91. Decode Ways](https://leetcode.com/problems/decode-ways/)(动态规划)
+	+ [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)(动态规划)
+	+ [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)(数组)
 
 2. 20190123
 	+ [21.  Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)【链表】
