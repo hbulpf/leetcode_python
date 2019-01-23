@@ -5,3 +5,12 @@
 	+ [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 	+ [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 	+ [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+2. 20190123
+	+ [21.  Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)【链表】
+	+ [100. Same Tree](https://leetcode.com/problems/same-tree/)【树】
+	+ [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)【栈】
+	+ [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)【查找】
+	+ [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)【数组】
+	+ [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) 【排序】
+	+ [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)【字符串】
