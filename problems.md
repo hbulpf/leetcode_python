@@ -14,3 +14,17 @@
 	1. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)【数组】
 	1. [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) 【排序】
 	1. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)【字符串】
+
+3. 20190124
+	1. [51. N-Queens](https://leetcode.com/problems/n-queens/)【回溯法】
+	1. [75. Sort Colors](https://leetcode.com/problems/sort-colors/)【排序】
+	1. [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)【查找】
+	1. [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)【查找】
+	1. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)【查找】
+	1. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)【查找】
+	1. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)【链表】
+	1. [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)【栈或者队列】
+	1. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)【栈或者队列】
+	1. [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)【树】
+	1. [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)(贪心)
+
