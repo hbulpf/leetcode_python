@@ -31,6 +31,7 @@ leetcode in python
 学习分两个部分:
 1. 自己去 [牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode) 做题系统中进行 leetcode in python 练习
 2. 按照下面的 [LeetCode作业集](./problems.md) 自主完成习题并定时反馈结果, [LeetCode作业集](./problems.md) 样例代码见 [solution_sample](./solution_sample)
+
 学习目标：
 1. 需要掌握的题目类型
 	1. 数组
