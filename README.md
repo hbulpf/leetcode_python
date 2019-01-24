@@ -26,31 +26,32 @@ leetcode in python
 完成上面的基础学习后，可以在下面的题目中小试牛刀：
     + [牛客网专项练习-编程语言Python](https://www.nowcoder.com/intelligentTest)
 
-## 第二阶段 - 入门LeetCode
+## 第二阶段 - 入门LeetCode(1月24日-2月9日)
 
 学习分两个部分:
 1. 自己去 [牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode) 做题系统中进行 leetcode in python 练习
 2. 按照下面的 [LeetCode作业集](./problems.md) 自主完成习题并定时反馈结果, [LeetCode作业集](./problems.md) 样例代码见 [solution_sample](./solution_sample)
+学习目标：
+1. 需要掌握的题目类型
+	1. 数组
+	2. 字符串
+	3. 查找
+	4. 排序
+	5. 链表
+	6. 堆栈
+	7. 树+递归
+	8. 回溯法
+	9. 动态规划
+	10. 贪心算法
+2. 需要完成目标：
+	1. 希望第二阶段结束后，可以把[牛客网的LeetCode经典编程题](https://www.nowcoder.com/ta/leetcode)全部刷完。
 
-需要掌握的题目类型
-1. 数组
-2. 字符串
-3. 查找
-4. 排序
-5. 链表
-6. 堆栈
-7. 树+递归
-8. 回溯法
-8. 动态规划
-9. 贪心算法
 
-
-
-## 第三阶段 - 公司真题练习
-
+## 第三阶段 - 公司真题练习(2月10日-2月16日)
 根据面试[公司](https://akunacapital.com/careers)往年的招聘情况，找一些相似公司或该公司的历年真题进行针对性测验练习。
 1. 适应编程环境 https://www.hackerrank.com/domains/python
 2. 针对招聘需求 https://www.v2ex.com/amp/t/426886
+3. 刘盼考试时间大概是(2019年2月17日或2019年2月18）
 
 
 
