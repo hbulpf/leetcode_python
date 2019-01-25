@@ -16,7 +16,7 @@
 	1. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)【字符串】
 
 3. 20190124
-	1. [51. N-Queens](https://leetcode.com/problems/n-queens/)【回溯法】
+	1. [51. N-Queens](https://leetcode.com/problems/n-queens/)【回溯法】（未完成）
 	1. [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)【贪心】
 	1. [75. Sort Colors](https://leetcode.com/problems/sort-colors/)【排序】
 	1. [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)【查找】
@@ -27,3 +27,14 @@
 	1. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)【查找】
 	1. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)【查找】
 	1. [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)【栈或者队列】
+
+4. 20190125
+    1. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)【链表】
+    1. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)【递归】
+    1. [134. Gas Station](https://leetcode.com/problems/gas-station/)【贪心】
+    1. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)【树】
+    1. [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)【树】
+    1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)【栈】
+    1. [127. Word Ladder](https://leetcode.com/problems/word-ladder/)【查找】
+    1. [79. Word Search](https://leetcode.com/problems/word-search/)【查找】
+    1. [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)【数组】
