@@ -38,3 +38,15 @@
     1. [127. Word Ladder](https://leetcode.com/problems/word-ladder/)【查找】
     1. [79. Word Search](https://leetcode.com/problems/word-search/)【查找】
     1. [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)【数组】
+
+5. 20190127
+    1. [86. Partition List](https://leetcode.com/problems/partition-list/)【链表】
+    1. [55. Jump Game](https://leetcode.com/problems/jump-game/)【贪心】
+    1. [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)【树】
+    1. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)【栈】
+    1. [77. Combinations](https://leetcode.com/problems/combinations/)【查找】
+    1. [39. Combination Sum](https://leetcode.com/problems/combination-sum/)【查找】
+    1. [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)【数组】
+    1. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)【数组】
+    1. [71. Simplify Path](https://leetcode.com/problems/simplify-path/)【字符串】
+    1. [67. Add Binary](https://leetcode.com/problems/add-binary/)【字符串】
