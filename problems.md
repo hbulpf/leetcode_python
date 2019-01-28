@@ -43,7 +43,6 @@
     1. [86. Partition List](https://leetcode.com/problems/partition-list/)【链表】
     1. [55. Jump Game](https://leetcode.com/problems/jump-game/)【贪心】
     1. [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)【树】
-    1. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)【栈】
     1. [77. Combinations](https://leetcode.com/problems/combinations/)【查找】
     1. [39. Combination Sum](https://leetcode.com/problems/combination-sum/)【查找】
     1. [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)【数组】
@@ -56,4 +55,8 @@
     1. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)【链表】
     1. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)【贪心】
     1. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)【数组】
-    
+    1. [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)【树】
+    1. [112. Path Sum](https://leetcode.com/problems/path-sum/)【树】
+    1. [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)【树】
+    1. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)【栈】
+    1. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)【查找】
