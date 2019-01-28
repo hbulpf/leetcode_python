@@ -50,3 +50,10 @@
     1. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)【数组】
     1. [71. Simplify Path](https://leetcode.com/problems/simplify-path/)【字符串】
     1. [67. Add Binary](https://leetcode.com/problems/add-binary/)【字符串】
+
+6. 20190128
+    1. [83. Remove Duplicates from Sorted List](https://leetcode.com/problemset/all/?search=remove-duplicates-from-sorted-list%20)【链表】
+    1. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)【链表】
+    1. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)【贪心】
+    1. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)【数组】
+    
