@@ -63,3 +63,11 @@
 
 7. 20190129
     1. [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)【链表】
+    1. [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)【贪心】
+    1. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)【树】
+    1. [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)【树】
+    1. [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)【栈】
+    1. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)【查找】
+    1. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)【查找】
+    1. [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)【数组】
+    1. [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)【数组】
