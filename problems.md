@@ -60,3 +60,6 @@
     1. [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)【树】
     1. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)【栈】
     1. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)【查找】
+
+7. 20190129
+    1. [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)【链表】
