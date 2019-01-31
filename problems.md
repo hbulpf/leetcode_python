@@ -79,4 +79,6 @@
     1. [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)【树】
     1. [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)【树】
     1. [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)【树】
-    1.
+    1. [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)【查找】
+    1. [66. Plus One](https://leetcode.com/problems/plus-one/)【数组】
+    1. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)【数组】
