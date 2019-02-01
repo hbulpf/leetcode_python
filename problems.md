@@ -90,6 +90,6 @@
     1. [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)【树】
     1. [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)【查找】
     1. [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)【数组】
-    1. []()【数组】
-    1. []()【数组】
+    1. [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)【数组】
+    1. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)【字符串】
     1. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)【字符串】
