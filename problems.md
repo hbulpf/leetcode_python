@@ -86,4 +86,10 @@
 9. 20190201
     1. [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)【链表】
     1. [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)【模拟】
-    1. []()
+    1. [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)【树】
+    1. [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)【树】
+    1. [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)【查找】
+    1. [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)【数组】
+    1. []()【数组】
+    1. []()【数组】
+    1. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)【字符串】
