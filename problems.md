@@ -100,3 +100,7 @@
     1. [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)【树】
     1. [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)【树】
     1. [48. Rotate Image](https://leetcode.com/problems/rotate-image/)【数组】
+    1. [31. Next Permutation](https://leetcode.com/problems/next-permutation/)【数组】
+    1. [27. Remove Element](https://leetcode.com/problems/remove-element/)【数组】
+    1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)【数组】
+    1. [38. Count and Say](https://leetcode.com/problems/count-and-say/)【字符串】
