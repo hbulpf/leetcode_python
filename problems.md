@@ -93,3 +93,9 @@
     1. [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)【数组】
     1. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)【字符串】
     1. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)【字符串】
+    
+10. 20190202
+    1. [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)【树】
+    1. [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+    1. [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+    1. [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
