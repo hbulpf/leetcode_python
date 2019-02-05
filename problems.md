@@ -114,4 +114,4 @@
     1. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)【数组】
     1. [57. Insert Interval](https://leetcode.com/problems/insert-interval/)【数组】
     1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)【分治】
-    1. []()
+    1. [46. Permutations](https://leetcode.com/problems/permutations/)【分治】
