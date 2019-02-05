@@ -111,7 +111,7 @@
     1. [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)【字符串】
     1. [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)【数组】
     1. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)【树】
-    1. []()
-    1. []()
-    1. []()
+    1. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)【数组】
+    1. [57. Insert Interval](https://leetcode.com/problems/insert-interval/)【数组】
+    1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)【分治】
     1. []()
