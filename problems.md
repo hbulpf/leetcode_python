@@ -104,3 +104,9 @@
     1. [27. Remove Element](https://leetcode.com/problems/remove-element/)【数组】
     1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)【数组】
     1. [38. Count and Say](https://leetcode.com/problems/count-and-say/)【字符串】
+
+11. 20190205
+    1. [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)【字符串】
+    1. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)【字符串】
+    1. [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)【字符串】
+    1. []
