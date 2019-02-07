@@ -122,4 +122,6 @@
     1. [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)【字符串】
     1. [139. Word Break](https://leetcode.com/problems/word-break/)【动态规划】
     1. [140. Word Break II](https://leetcode.com/problems/word-break-ii/)【动态规划】
-    1. 
+    1. [78. Subsets](https://leetcode.com/problems/subsets/)【动态规划
+    1. [120. Triangle](https://leetcode.com/problems/triangle/)【动态规划】
+    2. 
