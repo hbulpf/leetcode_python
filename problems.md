@@ -124,4 +124,5 @@
     1. [140. Word Break II](https://leetcode.com/problems/word-break-ii/)【动态规划】
     1. [78. Subsets](https://leetcode.com/problems/subsets/)【动态规划
     1. [120. Triangle](https://leetcode.com/problems/triangle/)【动态规划】
-    2. 
+    1. [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)【动态规划】
+    1. [1. Two Sum](https://leetcode.com/problems/two-sum/)【哈希】
