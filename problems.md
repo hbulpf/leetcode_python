@@ -120,4 +120,6 @@
     1. [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)【字符串】
     1. [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)【字符串】
     1. [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)【字符串】
+    1. [139. Word Break](https://leetcode.com/problems/word-break/)【动态规划】
+    1. [140. Word Break II](https://leetcode.com/problems/word-break-ii/)【动态规划】
     1. 
