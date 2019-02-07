@@ -115,3 +115,9 @@
     1. [57. Insert Interval](https://leetcode.com/problems/insert-interval/)【数组】
     1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)【分治】
     1. [46. Permutations](https://leetcode.com/problems/permutations/)【分治】
+    
+12. 20190207
+    1. [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)【字符串】
+    1. [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)【字符串】
+    1. [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)【字符串】
+    1. 
